@@ -20,24 +20,29 @@ you are done with your submission.
 ## 12.1
 
 - Harrison’s Notes: Already done before class.
-
+- Madison's Notes: Done before class and installed Git.
 ## 12.2
 
 - Harrison’s Notes: Repo created by github classroom.
+- Madison's Notes: Repo and joined the github classroom.
 
 ## 12.3
 
 - Harrison’s Notes: No issues, downloaded fine, git already setup.
+- Madison's Notes: Issues with git not setting up, fixed by changing project location.
 
 ## 12.4
 
 - Harrison’s Notes: Worked fine, no issues commiting locally.
+- Madison's Notes: Worked Good, no issues.
 
 ## 12.5
 
 - Harrison’s Notes: Needed to enter github username and token to push to
   remote repo, worked fine.
+-Madison's Notes: No issues, had to enter username and password.
 
 ## 12.6
 
 - Harrison’s Notes: Changes propagated correctly.
+- Madison's Notes: Confirmed changes.
