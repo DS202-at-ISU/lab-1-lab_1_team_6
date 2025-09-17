@@ -31,4 +31,13 @@ you are done with your submission.
 
 ## 12.4
 
-- Harrison’s Notes:
+- Harrison’s Notes: Worked fine, no issues commiting locally.
+
+## 12.5
+
+- Harrison’s Notes: Needed to enter github username and token to push to
+  remote repo, worked fine.
+
+## 12.6
+
+- Harrison’s Notes: Changes propagated correctly.
