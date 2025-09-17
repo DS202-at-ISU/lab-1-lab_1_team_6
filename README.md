@@ -34,7 +34,7 @@ you are done with your submission.
 ## 12.4
 
 - Harrison’s Notes: Worked fine, no issues commiting locally.
-- Madison's Notes: Worked Good, no issues.
+- Madison's Notes: Worked Good, no issues with commiting.
 
 ## 12.5
 
@@ -45,4 +45,4 @@ you are done with your submission.
 ## 12.6
 
 - Harrison’s Notes: Changes propagated correctly.
-- Madison's Notes: Confirmed changes.
+- Madison's Notes: Confirmed changes, worked correctly.
