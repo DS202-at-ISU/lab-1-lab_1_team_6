@@ -32,21 +32,25 @@ All submissions to the github repo will be automatically uploaded for grading on
 
 -   Harrison's Notes: No issues, downloaded fine, git already setup.
 -   Madison"s Notes: Issues with git not setting up, fixed by changing project location.
+-   Selena's Notes: Had no issues. 
 
 
 ## 12.4
 
 -   Harrison's Notes: Worked fine, no issues commiting locally.
 -   Madison"s Notes: Worked Good, no issues with commiting.
+-   Selena's Notes: Worked good, and had no issues with commiting. 
 
 ## 12.5
 
 -   Harrison's Notes: Needed to enter github username and token to push to remote repo, worked fine.
 -   Madison's Notes: No issues, had to enter username and password.
+-     Selena's Notes: Had issues getting my token and it did not like the push and pull, but I figured it out with the announcements.
 
 ## 12.6
 
 -   Harrison's Notes: Changes propagated 
 -   Madison's Notes: Confirmed changes, worked correctly.
+-   Selena's Notes: Saw that my note is there and worked. 
 
 
